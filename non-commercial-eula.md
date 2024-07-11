@@ -5,8 +5,7 @@
 ### PLEASE READ THE TERMS OF THIS EULA CAREFULLY.
 
 This is a legally binding agreement (**'EULA'**) between you
-(**'Licensee'** or **'you'**) and us (Ozone Financial Technology Limited, whose registered address is 86-90 Paul Street, London, United
-Kingdom, EC2A 4NE, United Kingdom **\'Ozone\'**, **\'we\'** or **\'us\'**),
+(**'Licensee'** or **'you'**) and us (Ozone Financial Technology Limited, whose registered address is 86-90 Paul Street, London, EC2A 4NE, United Kingdom **\'Ozone\'**, **\'we\'** or **\'us\'**),
 granting you the right to use and access the **Ozone Non-Commercial**
 **Software** (as defined below) including any updates, upgrades, new
 versions or releases, patches, fixes or workarounds made available by
